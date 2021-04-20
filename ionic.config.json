@@ -1,0 +1,8 @@
+{
+  "name": "Sync ",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "e412c6a4"
+}
